@@ -67,6 +67,7 @@ resources for unsupervised object discovery
 
 [Indoor Scene Understanding with RGB-D Images](https://openreview.net/forum?id=r7E-NaIedpH)
 
+
 ## 3D segmentation
 [Know What Your Neighbors Do: 3D Semantic Segmentation of Point Clouds](https://arxiv.org/abs/1810.01151)
 
@@ -79,3 +80,29 @@ resources for unsupervised object discovery
 
 
 
+# Lectures, Talks
+[Shape understanding](https://www.youtube.com/watch?v=GsCKdcK6ENU)
+
+[3D Deep Learning, CVPR tutorial](https://www.youtube.com/watch?v=8CenT_4HWyY)
+
+[Similarity for shape analysis](https://www.youtube.com/watch?v=2arhm6QE6yQ)
+
+[Local shape representations](https://www.youtube.com/watch?v=al8X2XzjGqo)
+
+[3D in jupyter notebooks](https://www.youtube.com/watch?v=1oXVDG6Iop0)
+
+[Content based image retrieval](https://www.youtube.com/watch?v=61pUX7_LKZg)
+
+
+# Tools
+[Open3D](http://www.open3d.org/)
+
+[Pytorch-Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
+
+[Pytorch3D](https://github.com/facebookresearch/pytorch3d)
+
+[IpyVolume](https://github.com/maartenbreddels/ipyvolume)
+
+
+# Datasets, Benchmarks
+[SemanticKitti](http://semantic-kitti.org/)
